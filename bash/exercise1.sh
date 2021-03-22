@@ -20,7 +20,7 @@
 #  - 91+50*3/20 + (17^2)/7
 # 
 ####################################################################################################################
-!/bin/bash
+#!/bin/bash
 echo "Warning: Only +,-,*,^, /, (, ) operators allowed "
 echo "Enter the Expression: "  
 read Expression
